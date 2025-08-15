@@ -22,17 +22,12 @@ The app allows users to add, delete, and mark tasks as complete, with data persi
 
 ---
 
-## 📸 Screenshots
-*(Add your screenshots here — e.g., app running, local storage view, etc.)*
-
----
-
 ## 📂 Project Structure
 todo-list-app
-│── index.html # Main HTML file
-│── style.css # Stylesheet
-│── script.js # JavaScript functionality
-└── README.md # Project documentation
+│── **index.html** # Main HTML file
+│── **style.css** # Stylesheet
+│── **script.js** # JavaScript functionality
+└── **README.md** # Project documentation
 
 ---
 
